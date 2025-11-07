@@ -1,0 +1,54 @@
+🎓 STUDENT PERFORMANCE ANALYSIS REPORT
+============================================================
+
+📊 SUBJECT-WISE PERFORMANCE SUMMARY:
+SQL        | Avg:  84.66 | Highest: 100.0 | Lowest:  70.0
+Excel      | Avg:  85.38 | Highest: 100.0 | Lowest:  70.0
+Python     | Avg:  85.39 | Highest: 100.0 | Lowest:  70.0
+PowerBI    | Avg:  84.55 | Highest: 100.0 | Lowest:  70.0
+English    | Avg:  84.82 | Highest: 100.0 | Lowest:  70.0
+
+🏆 OVERALL PERFORMANCE:
+Average Marks of All Students : 84.96
+Highest Average Marks         : 96.80
+Lowest Average Marks          : 71.80
+
+📍 CITY-WISE PERFORMANCE:
+Berlin          -> Average Marks: 84.73
+London          -> Average Marks: 83.95
+Los Angeles     -> Average Marks: 85.64
+Melbourne       -> Average Marks: 82.73
+New York        -> Average Marks: 86.50
+
+🤝 SUBJECT CORRELATION (Simplified View):
+SQL vs Excel : -0.02
+SQL vs Python : -0.03
+SQL vs PowerBI : -0.01
+SQL vs English : -0.03
+Excel vs Python : 0.01
+Excel vs PowerBI : 0.03
+Excel vs English : -0.04
+Python vs PowerBI : -0.01
+Python vs English : -0.12
+PowerBI vs English : 0.04
+
+🖼️ VISUAL INSIGHTS:
+------------------------------------------------------------
+Figure 1: Distribution of Student Average Marks
+File: visuals/student_distribution.png
+Description: This histogram shows how students’ average marks are distributed.
+Peaks indicate the most common performance range.
+
+Figure 2: Subject Correlation Heatmap
+File: visuals/subject_correlation.png
+Description: Displays correlation between subjects.
+Brighter cells show stronger positive relationships.
+
+------------------------------------------------------------
+SUMMARY CONCLUSION:
+->Students from New York performed the best overall.
+->The strongest correlation was between PowerBI and English (0.04).
+->The top-performing subject on average was Python.
+
+============================================================
+📅 Report Generated On: 2025-11-07 11:29:59
