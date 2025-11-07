@@ -29,6 +29,3 @@ It performs:
 ✅ Automatic report generation (`report.txt`)  
 ✅ Saved visualizations (histogram & heatmap)
 
-
-
-## 📂 Project Structure
